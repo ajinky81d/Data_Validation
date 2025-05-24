@@ -1,0 +1,7 @@
+Total faulty records: 58
+
+Missing Meter ID: 6 record(s)
+Invalid Meter ID (special chars or lowercase): 6 record(s)
+Future Service Start Date: 15 record(s)
+Invalid Email: 15 record(s)
+Invalid Phone: 16 record(s)
